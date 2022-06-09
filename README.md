@@ -8,7 +8,7 @@ Addition.
 Addition 2.
 
 Addition 3.
-This is a link to the [Github Pages]([url](https://pages.github.com)).
+This is a link to the [Github Pages](https://pages.github.com).
 
 ```
 This is code.
