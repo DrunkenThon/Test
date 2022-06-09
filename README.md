@@ -7,6 +7,8 @@ It's for **testing** purposes only.
 Addition.
 Addition 2.
 
+https://pages.github.com
+
 Addition 3.
 This is a link to the [Github Pages](https://pages.github.com).
 
