@@ -52,4 +52,8 @@ You can also use words, to fit your writing style more closely[^note].
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
-## And this text will be above footnote.
+## And this table will be above footnote.
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git **status**     | git status    |
+| git diff     | git _diff_       | git diff      |
