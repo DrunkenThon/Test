@@ -45,6 +45,33 @@ Reference-style:
 
 ![alt text][glider]
 
+
+Here are some examples of code spans.
+
+I strongly recommend against using any `<blink>` tags.
+
+I wish SmartyPants used named entities like `&mdash;`
+instead of decimal-encoded entites like `&#8212;`.
+
+Looks like we should indent the lines with tabs for the block:
+
+                This should be the code.
+                So if we indent the line by one or more tabs, it will be the code no matter what. There are pros and cons about that.
+                                If we put more tabs, it is still the code block.
+                                And the text is still indented accordingly.
+
+   Now let's try the same with spaces (here are three).
+
+    And now here are four.
+    One more line.
+
+If you want your page to validate under XHTML 1.0 Strict,
+you've got to put paragraph tags in your blockquotes:
+
+    <blockquote>
+        <p>For example.</p>
+    </blockquote>
+
 [1]: http://google.com/        "Google"
 [2]: http://search.yahoo.com/  "Yahoo Search"
 [3]: http://search.msn.com/    "MSN Search"
