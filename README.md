@@ -16,6 +16,9 @@ This is a link to the [Github Pages](https://pages.github.com).
 This is code.
 And one more line.
 ```
+
+![Hacker Emblem](https://upload.wikimedia.org/wikipedia/commons/9/96/Animated_glider_emblem.gif)
+
 - list element 1
 - list element 2
 - list element 3
