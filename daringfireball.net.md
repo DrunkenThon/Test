@@ -15,16 +15,21 @@ Some of these words _are emphasized also_.
 Use two asterisks for **strong emphasis**.
 Or, if you prefer, __use two underscores instead__.
 
-*   Candy.
-*   Gum.
-*   Booze.
+* Candy
+* Gum
+* Booze
+* Four
+* Five
 
-1.  One
-2.  Two
+
+Here is a numbered list:
+
+1. One
+2. Two
     -   Candy.
     -   Gum.
     -   Booze.
-3.  Three
+3. Three
 
 This is an [example link](http://example.com/). And one more link [example link](http://example.com/ "With a Title").
 
@@ -64,6 +69,22 @@ Looks like we should indent the lines with tabs for the block:
 
     And now here are four.
     One more line.
+
+to write about ‘AT&T’, you need 
+
+[Link1](http://images.google.com/images?num=30&q=larry+bird)
+
+[Link2](http://images.google.com/images?num=30&amp;q=larry+bird)
+
+
+&copy; Markdown will leave it alone.
+
+But if you write: AT&T
+
+Markdown will translate it to:
+
+AT&amp;T
+
 
 
 [1]: http://google.com/        "Google"
