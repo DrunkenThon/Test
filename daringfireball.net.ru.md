@@ -23,7 +23,7 @@
 
 > Или участки кода:
 
->     return shell_exec("echo $input | $markdown_script");
+>        return shell_exec("echo $input | $markdown_script");
 
 
 > При цитировании, можно выделять символом `>` только первую строку, как в этом параграфе. Хотя выделение каждой строки в исходном тексте Markdown выглядит лучше. This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
@@ -78,6 +78,20 @@ id sem consectetuer libero luctus adipiscing.
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 *   Еще один элемент списка.
+
+Чтобы использовать цитирование в списках, нужно `>` выделить отступами:
+
+*   Элемент списка с цитированием:
+
+    > Это цитата
+    > внутри списка.
+
+Чтобы пометить код внутри списка, нужно выделить код двлйным отступом — 8 пробелов или 2 tab:
+
+*   Это элемент списка с кодом:
+
+        <code goes here>
+
 
 
 Это простой пример [ссылки](http://example.com/). Здесь еще одна [ссылка](http://example.com/ "С заголовком").
