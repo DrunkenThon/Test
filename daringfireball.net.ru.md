@@ -167,4 +167,4 @@ Markdown автоматически обрабатывает специальн�
 [The New York Times]:   <http://www.nytimes.com/> "Эта ссылка выделена знаками `>`"
 [GLIDER]:     <https://upload.wikimedia.org/wikipedia/commons/4/45/Glider.svg>
               "Glider. Описание для этого изображения на другой строке, а имя в другом регистре."
-[DaringFireball]: https://daringfireball.net/projects/markdown/syntax#block
+[DaringFireball]: https://daringfireball.net/projects/markdown/syntax
