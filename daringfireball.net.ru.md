@@ -43,11 +43,15 @@ Markdown
 >        return shell_exec("echo $input | $markdown_script");
 
 
-> При цитировании, можно выделять символом `>` только первую строку, как в этом параграфе. Эта цитата содержит два параграфа. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> При цитировании, можно выделять символом `>` только первую строку,
+как в этом параграфе. Эта цитата содержит два параграфа.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam
+hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec,
+fringilla in, laoreet vitae, risus.
 
-> Это второй параграф цитаты. Он отделен пустой строкой. При выделении каждой строки символом `>`, эта (пустая) строка также должна содержать этот символ в начале строки. Например:
+> Это второй параграф цитаты. Он отделен пустой строкой. При выделении
+каждой строки символом `>`, эта (пустая) строка также должна содержать
+этот символ в начале строки. Например:
 
 > Строка цитаты (первый параграф).
 >
