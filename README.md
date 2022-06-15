@@ -60,3 +60,8 @@ You can also use words, to fit your writing style more closely[^note].
 | :---         |     :---:      |          ---: |
 | git status   | git **status**     | git status    |
 | git diff     | git _diff_       | git diff      |
+
+
+
+
+#NEW LINE
